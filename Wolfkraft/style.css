@@ -1,0 +1,39 @@
+*{
+  font-family: 'Noto Sans TC', sans-serif;
+}
+
+.form-inline{
+  background-color: white;
+  border;
+}
+li{
+  margin: 20px;
+}
+
+.button1{
+  background-color: red;
+}
+
+.main-footer {
+  background-color: #30343F;
+  padding: 600px;
+  padding: 4em 1em;
+
+}
+
+#rbt{
+  padding-right: 90px;
+  background-color: orange;
+}
+
+.main-footer h2{
+  color: #fff;
+}
+
+.main-footer hr {
+    background-color: #aaa;
+    width: 100%;
+  }
+ #bt{
+   text-align: right;
+ }
